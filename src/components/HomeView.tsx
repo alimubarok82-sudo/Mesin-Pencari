@@ -9,7 +9,7 @@ export default function HomeView({ onStart, points }: { onStart: () => void, poi
       </div>
 
       <h1 className="text-4xl md:text-5xl font-extrabold text-white tracking-tight mb-6 leading-tight">
-        Pelajari Informatika dengan <span className="text-yellow-300">Interaktif</span>
+        Jelajahi Cara Kerja <span className="text-yellow-300">Mesin Pencari</span>
       </h1>
       
       <p className="text-lg text-white/90 mb-12 max-w-2xl leading-relaxed">
